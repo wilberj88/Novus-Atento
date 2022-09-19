@@ -18,8 +18,8 @@ st.markdown(
   - ✍️ _     Propuesta Inteligente de Contrato
   
   Todo lo anterior basado en:
-  - Tecnología para la optimización: Canales de Atención de Clientes Automatizado
-  - Tecnología para Análisis de Sentimiento: Construimos Asistentes Virtuales sensibles al Cliente
+  - Tecnología para la optimización: Canales de Atención de Clientes Automatizado 🎡
+  - Tecnología para Análisis de Sentimiento: Construimos Asistentes Virtuales sensibles al Cliente 🤗 
   
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
   """
