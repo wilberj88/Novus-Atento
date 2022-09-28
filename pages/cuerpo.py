@@ -1,5 +1,4 @@
 import streamlit as st
-import tkinter as TK
-import turtle as t
+from tkinter import HIDDEN, NORMAL, Tk, Canvas
 
-t.goto(-100, -150)
+root= Tk()
