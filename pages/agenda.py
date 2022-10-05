@@ -11,9 +11,9 @@ st.header("Configura tu Atento 🗓️ Agenda 📆")
 st.markdown(
   """
   Novus Atento Agenda te apoyará en:
-  - 🔎 _    Controlar tus metas y horarios diarios, desde el despertar hasta el acostar
-  - 🛒 _    Alarmar cumplimiento de metas diarias, semanales y mensuales
-  - ✍️ _     Recomendaciones para sa
+  - 🔎 _    Controlar tus metas diarias, semanales y mensuales
+  - ⏰ _    Alarmar cumplimiento de metas diarias, semanales y mensuales
+  - ✅ _     Aconsejar cómo conseguir tus metas
   
   CONFIGURA TU ATENTO 🤖 AHORA 🕰
   """
