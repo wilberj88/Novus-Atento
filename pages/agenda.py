@@ -11,19 +11,24 @@ st.header("Configura tu Atento 🗓️ Agenda 📆")
 st.markdown(
   """
   Novus Atento Agenda te apoyará en:
-  - 🔎 _    Controlar tus metas diarias, semanales y mensuales
-  - ⏰ _    Alarmar cumplimiento de metas diarias, semanales y mensuales
-  - ✅ _     Aconsejar cómo conseguir tus metas
+  - 🔎 _    Controlar tu meta mensual y anual
+  - ⏰ _    Analizar tu cumplimiento de tus metas
+  - ✅ _     Aconsejar sobre tu proceso de mejora
   
   CONFIGURA TU ATENTO 🤖 AHORA 🕰
   """
 )
 
 
-i = st.radio('Indícanos tu cepas preferidas:', ['Orange', 'Gorila Kush', 'Gorila Og', 'PuntoRojo', 'IRE', 'Amazonas'])
+meta_ingreso = st.slider('¿Cuál es tu meta de generación de ingresos en 2023?', 0, 100000)
 
-if a and b and c:
-  st.write('Muchas gracias, ', d, e, 'Enviamos un correo de confirmación a  <<',a, '>>. Estamos preparando el envío de tu Julito hacia la ciudad de <<', b, '>> a la dirección: <<', c, '>>.')
+meta_ejercicio = st.radio('¿Cuál es tu meta de realización de ejercicio en 2023?', ['2 días a la semana', '3  días a la semana', '4 días a la semana', '5  días a la semana', '6 días a la semana'])
+
+meta_salud = st.radio('¿Cuántos controles médicos te harás en 2023?', ['Anual', 'Semestral', 'Trimestral'])
+
+a = st.button('Crear mi Atento 🤖 Agenda exclusivo para mí')
+
+if meta_ingreso and meta_ejercicio and meta_salud and a:
+  st.write('Muchas gracias, Pepito Perez: hemos creado un Atento entrenado para apoyarte a conseguir tus metas, iniciando por facturar en 2023', meta_ingreso, 'ejercitarte ', meta_ejercicio, 'y cuidarte ', meta_salud)
 
 
-st.button('Crear mi Atento 🤖 Agenda exclusivo para mí')
