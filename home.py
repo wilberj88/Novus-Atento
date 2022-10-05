@@ -6,6 +6,9 @@ import numpy as np
 st.set_page_config(layout="wide", page_title="Novus Atento", page_icon="🤖")
 
 st.title('Novus Atento 🤖')
-st.header("Potencia tu vida con un Asistente Virtual personalizado para ti 🎯")
+st.header("Asistentes Virtuales para tus necesidades 🧘")
 
-st.write("Elige el Atento que requieras")
+st.write("Sabemos que cada frente de la vida tiene su magia, por eso tenemos varios Atentos para ti")
+
+st.selectbox('Elige el Atento que requieras', ['Atento Agenda', 'Atento Clientes', 'Atento Trabajo', 'Atento Salud'])
+
