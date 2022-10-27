@@ -11,3 +11,20 @@ https://pub.towardsai.net/how-to-build-a-chatbot-that-understands-conditional-st
 
 Face Recognition
 https://pub.towardsai.net/real-time-face-recognition-on-cpu-with-python-and-facenet-3e7b3a0c0279!
+
+
+Alarmas
+				https://docs.streamlit.io/library/api-reference/widgets/st.time_input
+
+Código con librería NLTK
+				https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK
+
+Código con interacción de voz
+				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
+
+Sentimiento
+				Cámara en Vivo
+					Import streamlit as st 
+					from camera_input_live import camera_input_live
+					Image = camera_input_live()
+
