@@ -27,4 +27,6 @@ Sentimiento
 					Import streamlit as st 
 					from camera_input_live import camera_input_live
 					Image = camera_input_live()
-
+					
+The computer vision model applied by Software Development Engineer Rondinelli Morais deconstructs the speech of Will Smith 
+https://www.youtube.com/watch?v=qIlw36x7N6M
