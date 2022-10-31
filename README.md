@@ -9,6 +9,9 @@ https://medium.com/@info_5130/how-to-build-your-own-personal-voice-assistant-lik
 
 https://pub.towardsai.net/how-to-build-a-chatbot-that-understands-conditional-statements-39ea5a840d5
 
+Phatic Dialogue
+https://blog.devgenius.io/build-a-phatic-dialogue-small-talk-app-with-python-840ef42e3727
+
 Face Recognition
 https://pub.towardsai.net/real-time-face-recognition-on-cpu-with-python-and-facenet-3e7b3a0c0279!
 
