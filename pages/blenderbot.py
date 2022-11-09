@@ -6,7 +6,7 @@ from transformers import BlenderbotForConditionalGeneration
 @st.experimental_singleton
 def get_models():
   model_name = "facebook/blenderbot-400M-distill"
-  tokenizer = BlenderTokenizer.from_pretrained(model_name)
+  tokenizer = BlenderbotTokenizer.from_pretrained(model_name)
   model = BlenderbotForConditionalGeneration.from_pretrained(model_name)
   return tokenizer, model
 
