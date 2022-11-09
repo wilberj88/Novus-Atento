@@ -5,3 +5,4 @@ opencv-contrib-python-headless
 tensorflow-cpu
 streamlit_webrtc
 streamlit_chat
+transformers
