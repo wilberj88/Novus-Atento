@@ -33,3 +33,7 @@ Sentimiento
 					
 The computer vision model applied by Software Development Engineer Rondinelli Morais deconstructs the speech of Will Smith 
 https://www.youtube.com/watch?v=qIlw36x7N6M
+
+
+Microsoft Cognition: 
+"if you need a model to speak, see, hear, understand, search or make decisions, then definitely consult these. To get a clear understanding of the broad variety of features behind these services, visit Cognitive Services — APIs for AI Solutions | Microsoft Azure"
