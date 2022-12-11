@@ -16,6 +16,9 @@ Face Recognition
 https://pub.towardsai.net/real-time-face-recognition-on-cpu-with-python-and-facenet-3e7b3a0c0279!
 
 
+Audio Sentiment Analysis
+https://towardsdatascience.com/building-an-all-in-one-audio-analysis-toolkit-in-python-e849a0e2129e
+
 Alarmas
 				https://docs.streamlit.io/library/api-reference/widgets/st.time_input
 
