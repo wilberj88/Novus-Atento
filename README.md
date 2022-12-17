@@ -25,6 +25,9 @@ Alarmas
 Código con librería NLTK
 				https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK
 
+ChatGPT(coding assistant):
+https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
+
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
 
