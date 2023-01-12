@@ -45,3 +45,7 @@ Microsoft Cognition:
 "if you need a model to speak, see, hear, understand, search or make decisions, then definitely consult these. To get a clear understanding of the broad variety of features behind these services, visit Cognitive Services — APIs for AI Solutions | Microsoft Azure" https://medium.com/@margauxvanderplaetsen/azure-ai-portfolio-9fba803f791c
 
 
+Tracking User Experience - clicks on links:
+https://python.plainenglish.io/how-to-build-a-free-link-tracker-in-flask-and-python-f62b13b86024
+
+
