@@ -1,5 +1,8 @@
 # Novus-Atento
 
+AI Avatar
+https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
+
 Talk to books:
 https://books.google.com/talktobooks/
 
