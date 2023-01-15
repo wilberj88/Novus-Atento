@@ -31,6 +31,9 @@ Código con librería NLTK
 ChatGPT(coding assistant):
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 
+GPT3:
+https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
+
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
 
