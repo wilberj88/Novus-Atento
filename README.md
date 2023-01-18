@@ -21,9 +21,11 @@ https://medium.com/mlearning-ai/voice-cloning-for-beginners-in-8-minutes-db046e0
 Face Recognition
 https://pub.towardsai.net/real-time-face-recognition-on-cpu-with-python-and-facenet-3e7b3a0c0279!
 
-
-Audio Sentiment Analysis
+Sentiment Analysis
+Audio 
 https://towardsdatascience.com/building-an-all-in-one-audio-analysis-toolkit-in-python-e849a0e2129e
+Face:
+https://medium.com/@AmyGrabNGoInfo/sentiment-analysis-hugging-face-zero-shot-model-vs-flair-pre-trained-model-57047452225d
 
 Alarmas
 				https://docs.streamlit.io/library/api-reference/widgets/st.time_input
