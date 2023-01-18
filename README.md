@@ -3,6 +3,9 @@
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 
+AI Character Generator
+https://medium.com/mlearning-ai/niji-journey-ai-image-generator-for-breathtaking-anime-characters-158e242fd14d
+
 Talk to books:
 https://books.google.com/talktobooks/
 
