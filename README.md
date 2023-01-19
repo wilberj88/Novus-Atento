@@ -1,5 +1,8 @@
 # Novus-Atento
 
+Whatsapp Message Sender:
+https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d146704e7f2f
+
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 
