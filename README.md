@@ -12,6 +12,9 @@ https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-
 News Summeriser:
 https://medium.com/@natashanewbold/python-automation-project-with-source-code-news-summeriser-37132d89ae16
 
+Landing Page Generator:
+https://medium.com/@jainmonil2101/how-to-generate-a-killer-landing-page-using-python-django-openai-api-ce8cd1354087
+
 AI Art:
 https://medium.com/grabngoinfo/creat-beautiful-ai-art-using-python-kerascv-stablediffusion-on-google-colab-628ded302047
 
