@@ -3,6 +3,9 @@
 Whatsapp Message Sender:
 https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d146704e7f2f
 
+Whisper Song Transcript:
+https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-generator-with-whisper/35252
+
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 
@@ -44,6 +47,7 @@ https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python
 
 GPT3:
 https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
+Tutorials: https://lablab.ai/t
 
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
