@@ -9,6 +9,10 @@ https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-gen
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 
+Chatsonic: For Customer Service
+https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
+
+
 News Summeriser:
 https://medium.com/@natashanewbold/python-automation-project-with-source-code-news-summeriser-37132d89ae16
 
