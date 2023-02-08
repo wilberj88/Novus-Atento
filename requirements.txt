@@ -6,3 +6,4 @@ tensorflow-cpu
 streamlit_webrtc
 streamlit_chat
 transformers
+streamlit_echarts
