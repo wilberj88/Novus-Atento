@@ -62,6 +62,8 @@ https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python
 GPT3:
 https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
 Tutorials: https://lablab.ai/t
+https://medium.com/@oluaganju/create-with-python-chatcpt-cool-projects-await-b6d756bc511b
+
 
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
