@@ -12,6 +12,8 @@ https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-
 Chatsonic: For Customer Service
 https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
 
+Voice, Videos & PPT edition:
+https://artificialcorner.com/6-ai-tools-that-will-make-your-life-easier-a1b71d15cbff
 
 News Summeriser:
 https://medium.com/@natashanewbold/python-automation-project-with-source-code-news-summeriser-37132d89ae16
