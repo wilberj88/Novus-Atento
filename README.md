@@ -6,6 +6,9 @@ https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d1
 Whisper Song Transcript:
 https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-generator-with-whisper/35252
 
+3d
+https://threejs.org/examples/#webgl_postprocessing_advanced
+
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 
