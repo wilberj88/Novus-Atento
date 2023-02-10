@@ -7,7 +7,11 @@ Whisper Song Transcript:
 https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-generator-with-whisper/35252
 
 3d
+https://threejs.org/examples/#webgl_loader_pcd
 https://threejs.org/examples/#webgl_postprocessing_advanced
+https://threejs.org/examples/#webgl_morphtargets_face
+https://threejs.org/examples/#webgl_modifier_simplifier
+https://threejs.org/examples/#webgl_materials_normalmap
 
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
