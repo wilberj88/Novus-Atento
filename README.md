@@ -73,6 +73,7 @@ https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
 Tutorials: https://lablab.ai/t
 https://medium.com/@oluaganju/create-with-python-chatcpt-cool-projects-await-b6d756bc511b
 https://medium.com/@mesudhir/build-your-chatgpt-using-python-6acc77c9168
+https://medium.com/codingthesmartway-com-blog/how-to-use-chatgpt-with-python-1213b8477f7b
 
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
