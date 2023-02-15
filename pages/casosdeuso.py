@@ -15,7 +15,7 @@ st.title('Novus Atento 🤖')
 st.header("Tu mayordomo digital")
 
 st.write("""
-**ALTERNATIVA DE ATENTO PARA TU ELECCIÓN:**
+**ALTERNATIVAS DE ATENTO PARA TU ELECCIÓN:**
 - 🧨: `Atención de clientes`
 - 💲: `Cazador de clientes`
 - 🫀: `Sentimiento de Clientes`
