@@ -12,10 +12,10 @@ from streamlit_echarts import st_pyecharts
 st.set_page_config(layout="wide", page_title="Novus Mando", page_icon="⚙️")
 
 st.title('Novus Atento 🤖')
-st.header("Mayordomo digital a tu disposición")
+st.header("Tu mayordomo digital")
 
 st.write("""
-**ALTERNATIVA DE MANDO PARA TU ELECCIÓN:**
+**ALTERNATIVA DE ATENTO PARA TU ELECCIÓN:**
 - 🧨: `Atención de clientes`
 - 💲: `Cazador de clientes`
 - 🫀: `Sentimiento de Clientes`
