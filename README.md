@@ -6,6 +6,9 @@ https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d1
 Whisper Song Transcript:
 https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-generator-with-whisper/35252
 
+Deep Learning with Transfer Learning
+https://towardsdatascience.com/intermediate-deep-learning-with-transfer-learning-f1aba5a814f
+
 3d
 https://threejs.org/examples/#webgl_loader_pcd
 https://threejs.org/examples/#webgl_postprocessing_advanced
