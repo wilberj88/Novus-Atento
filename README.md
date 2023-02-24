@@ -18,6 +18,7 @@ https://threejs.org/examples/#webgl_materials_normalmap
 
 AI Avatar
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
+www.synthesia.io
 
 Chatsonic: For Customer Service
 https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
