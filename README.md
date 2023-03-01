@@ -73,6 +73,10 @@ Código con librería NLTK
 ChatGPT(coding assistant):
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 
+PROMPT SOURCES:
+https://prompthero.com/
+https://www.promptstacks.com/
+
 GPT3:
 https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
 https://diwashsapkota.medium.com/data-science-and-chatgpt-2f9adb32f89d
