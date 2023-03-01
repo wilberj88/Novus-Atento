@@ -76,6 +76,8 @@ https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python
 PROMPT SOURCES:
 https://prompthero.com/
 https://www.promptstacks.com/
+https://www.ordinarypeopleprompts.com/
+
 
 GPT3:
 https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
