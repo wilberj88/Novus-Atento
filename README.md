@@ -16,9 +16,11 @@ https://threejs.org/examples/#webgl_morphtargets_face
 https://threejs.org/examples/#webgl_modifier_simplifier
 https://threejs.org/examples/#webgl_materials_normalmap
 
-AI Avatar
+AI Avatar:
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 www.synthesia.io
+https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+
 
 Chatsonic: For Customer Service
 https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
