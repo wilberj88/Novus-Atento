@@ -78,6 +78,9 @@ Código con librería NLTK
 ChatGPT(coding assistant):
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 
+ChatBot for e-commerce:
+https://ai.plainenglish.io/using-chatgpt-and-python-for-chatbot-powered-e-commerce-websites-f12c1a9d8ed
+
 PROMPT SOURCES:
 https://prompthero.com/
 https://www.promptstacks.com/
