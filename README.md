@@ -88,6 +88,7 @@ https://www.ordinarypeopleprompts.com/
 
 
 GPT3:
+Sales analysis: https://medium.datadriveninvestor.com/mastering-the-gpt-3-api-supplementing-product-sales-analysis-2953b196fd22
 https://medium.com/@hacceebhassan/open-ai-customizing-gpt-3-f95e70934793
 https://diwashsapkota.medium.com/data-science-and-chatgpt-2f9adb32f89d
 https://medium.datadriveninvestor.com/mastering-the-gpt-3-api-supplementing-customer-churn-analysis-ea656bbcb5c7
