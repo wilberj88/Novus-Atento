@@ -9,6 +9,9 @@ https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-gen
 Deep Learning with Transfer Learning
 https://towardsdatascience.com/intermediate-deep-learning-with-transfer-learning-f1aba5a814f
 
+Automated Youtube Channel:
+https://amir-tech.medium.com/how-to-run-a-fully-automated-youtube-channel-using-python-19d4878a1cff
+
 3d
 https://threejs.org/examples/#webgl_loader_pcd
 https://threejs.org/examples/#webgl_postprocessing_advanced
