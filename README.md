@@ -23,7 +23,7 @@ AI Avatar:
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 www.synthesia.io
 https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
-
+https://artificialcorner.com/how-to-create-your-own-ai-animated-avatar-in-4-steps-e5194ca207f2
 
 Chatsonic: For Customer Service
 https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
