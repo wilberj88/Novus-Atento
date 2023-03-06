@@ -2,6 +2,7 @@
 
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
+Librerìa Lottie
 
 Whatsapp Message Sender:
 https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d146704e7f2f
