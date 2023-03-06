@@ -1,5 +1,8 @@
 # Novus-Atento
 
+Streamlit Visualizaciones:
+Charts: 1) WordCloud
+
 Whatsapp Message Sender:
 https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d146704e7f2f
 
