@@ -123,4 +123,6 @@ Microsoft Cognition:
 Tracking User Experience - clicks on links:
 https://python.plainenglish.io/how-to-build-a-free-link-tracker-in-flask-and-python-f62b13b86024
 
-
+NLP con Hugging Face:
+https://colab.research.google.com/drive/1_NdQpcfHJcB7ZTtZ3TWj-vQWvEfZJ7XL
+https://huggingface.co/platzi/platzi-distilroberta-base-mrpc-glue-omar-espejel
