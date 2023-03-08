@@ -5,6 +5,9 @@ Charts: 1) WordCloud, 2) React Player
 Librerìa Lottie
 
 
+Analizador Mood powered by ChatGPT3: 
+https://shweta-lodha.medium.com/create-chatbot-based-on-the-data-feed-by-you-gpt-index-openai-python-772291576bee
+
 Cazador Mood:
 ecommerce template:
 https://medium.com/@appseed.us/free-astro-ecommerce-template-3c52c526a8a4
