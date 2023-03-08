@@ -4,6 +4,11 @@ Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
 Librerìa Lottie
 
+
+Cazador Mood:
+ecommerce template:
+https://medium.com/@appseed.us/free-astro-ecommerce-template-3c52c526a8a4
+
 Whatsapp Message Sender:
 https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d146704e7f2f
 
