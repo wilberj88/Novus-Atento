@@ -134,3 +134,7 @@ https://python.plainenglish.io/how-to-build-a-free-link-tracker-in-flask-and-pyt
 NLP con Hugging Face:
 https://colab.research.google.com/drive/1_NdQpcfHJcB7ZTtZ3TWj-vQWvEfZJ7XL
 https://huggingface.co/platzi/platzi-distilroberta-base-mrpc-glue-omar-espejel
+
+Image Generation with Stable Diffusion + HugginFace:
+https://huggingface.co/stabilityai
+https://huggingface.co/stabilityai/stable-diffusion-2
