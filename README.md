@@ -140,3 +140,4 @@ https://huggingface.co/stabilityai
 https://huggingface.co/stabilityai/stable-diffusion-2
 https://drive.google.com/file/d/1Z-syNViRygwZ_SR8pB_ylXHefjUEwYVr/view
 https://drive.google.com/file/d/1j9_JU-yTlj3aN6gtqk5KlAMjxJTwfR4A/view
+Automatic 1111 es una de las interfaces gráficas para usar Stable Diffusion: git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
