@@ -33,6 +33,7 @@ https://threejs.org/examples/#webgl_materials_normalmap
 
 AI Avatar:
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
+https://www.youtube.com/watch?v=NlqYAUga60w&feature=youtu.be
 www.synthesia.io
 https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
 https://artificialcorner.com/how-to-create-your-own-ai-animated-avatar-in-4-steps-e5194ca207f2
