@@ -1,4 +1,9 @@
 # Novus-Atento
+IA para mayordomos digitales: atención, acompañamiento, venta y postventa
+
+STACK
+1) Python-Streamlit-ChatGPT: https://www.youtube.com/watch?v=cHjlperESbg https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542
+
 
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
