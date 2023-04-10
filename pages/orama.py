@@ -25,5 +25,5 @@ fecha_limite = st.date_input("Cuál es la fecha de vencimiento de la factura?",
 st.title('Carga tu logo para que la factura quede perfecta')
 logo = st.file_uploader("Sube tu logo en formato PNG")
 
-if st.button('Crear Factura')
+if st.button('Crear Factura'):
     st.write('Estamos creando la factura para el cliente ', cliente, 'por un monto de ', valor, ' y con una fecha de vencimiento de ', fecha_limite)
