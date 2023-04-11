@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import datetime
+from PIL import Image
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Atento", page_icon="🤖")
@@ -25,5 +26,6 @@ fecha_limite = st.date_input("Cuál es la fecha de vencimiento de la factura?",
 st.title('Carga tu logo para que la factura quede perfecta')
 logo = st.file_uploader("Sube tu logo en formato PNG")
 
-if st.button('Crear Factura'):
-    st.write('Estamos creando la factura para el cliente ', cliente, 'por un monto de ', valor, ' y con una fecha de vencimiento de ', fecha_limite)
+if st.button('Crear Factura 🤖'):
+    image = Image.open('facturaejemploAtentoOrama.png')
+    st.write('🤖 Te he creado la factura para el cliente ', cliente, 'por un monto de ', valor, ' y con una fecha de vencimiento de ', fecha_limite)
