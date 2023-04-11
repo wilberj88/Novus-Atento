@@ -8,7 +8,7 @@ from PIL import Image
 st.set_page_config(layout="wide", page_title="Novus Atento", page_icon="🤖")
 
 st.title('Novus Atento 🤖 - Orama')
-st.header("Asistente Virtual para tus facturas")
+st.header("Automatiza tus facturas")
 
 #CONFIGURACIÓN DE LA FACTURA
 st.title('Indica de cuánto es la factura')
