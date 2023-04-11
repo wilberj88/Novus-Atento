@@ -27,7 +27,7 @@ st.title('Carga tu logo para que la factura quede perfecta')
 logo = st.file_uploader("Sube tu logo en formato PNG")
 
 if st.button('Crear Factura 🤖'):
-    image = Image.open('/facturaejemploAtentoOrama.png')
+    image = Image.open('facturaejemploAtentoOrama.png')
     st.write('🤖 Te he creado la factura para el cliente ', cliente, 'por un monto de ', valor, ' y con una fecha de vencimiento de ', fecha_limite)
     st.image(image, caption='Factura creada en 0,01 segundos')
     st.button('Enviar Factura al Cliente 💰')
