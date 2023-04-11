@@ -33,5 +33,6 @@ if st.button('Crear Factura 🤖'):
     
     
     envio = st.radio('🤖 Enviar Factura al Cliente 💰', ['Ya','Mañana 9am','Proximo lunes 9am'])
-    if envio:
+ 
+if envio:
         st.write('**🤖 Factura progamada para envío. Te avisaremos cuando sea aprobada')
