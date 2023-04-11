@@ -31,5 +31,5 @@ if st.button('Crear Factura 🤖'):
    
     st.write('🤖 Te he creado la factura para el cliente ', cliente, 'por un monto de ', valor, ' y con una fecha de vencimiento de ', fecha_limite)
 
-    st.button('🤖 Enviar Factura al Cliente 💰')
-    st.write('🤖 Factura enviada. Te avisaremos cuando sea aprobada')
+    if st.button('🤖 Enviar Factura al Cliente 💰'):
+        st.write('🤖 Factura enviada. Te avisaremos cuando sea aprobada')
