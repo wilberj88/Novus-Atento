@@ -14,6 +14,9 @@ st.header("Automatiza tus facturas")
 st.title('Indica de cuánto es la factura')
 valor = st.slider('¿Monto en euros?', 0, 300000)
 
+st.title('Concepto de la factura')
+st.text_input('Servicios y productos:')
+
 st.title('Indica a cuál cliente')
 cliente = st.selectbox("Seleccione un cliente a facturar",
 ("Cliente A", "Cliente B", "Cliente C", "Cliente D", "Cliente E"),
