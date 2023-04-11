@@ -7,7 +7,7 @@ from PIL import Image
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Atento", page_icon="🤖")
 
-st.title('Novus Atento 🤖 - Orama')
+st.title('Novus 🤖 - Orama 💰')
 st.header("Automatiza tus facturas")
 
 #CONFIGURACIÓN DE LA FACTURA
