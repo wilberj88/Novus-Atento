@@ -128,6 +128,9 @@ https://medium.com/codingthesmartway-com-blog/how-to-use-chatgpt-with-python-121
 https://blog.devgenius.io/building-a-chatgpt-web-app-with-streamlit-and-openai-a-step-by-step-tutorial-1cd57a57290b
 https://medium.com/codex/5-chatgpt-mind-blowing-extensions-95584840b7bf
 GPT-Blender: https://github.com/gd3kr/BlenderGPT
+ChatGPT: Automated Prompt Scoring | by Michael Malin | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/chatgpt-automated-prompt-scoring-c972f9ee2c4f
+
 
 
 Código con interacción de voz
