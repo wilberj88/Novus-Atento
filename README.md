@@ -28,6 +28,9 @@ https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-gen
 Youtube Transcript:
 https://consultanubhav-1596.medium.com/generating-transcripts-and-subtitles-out-of-any-youtube-video-via-python-931d71e60259
 
+Audio Classification with Deep Learning in Python | by Leonie Monigatti | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/audio-classification-with-deep-learning-in-python-cf752b22ba07
+
 Deep Learning with Transfer Learning
 https://towardsdatascience.com/intermediate-deep-learning-with-transfer-learning-f1aba5a814f
 
