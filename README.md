@@ -25,6 +25,9 @@ https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-2-0-d1
 Whisper Song Transcript:
 https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-generator-with-whisper/35252
 
+Automatic Speech Recognition:
+https://towardsdatascience.com/overcoming-automatic-speech-recognition-challenges-the-next-frontier-e26c31d643cc
+
 Youtube Transcript:
 https://consultanubhav-1596.medium.com/generating-transcripts-and-subtitles-out-of-any-youtube-video-via-python-931d71e60259
 
