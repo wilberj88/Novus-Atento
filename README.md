@@ -88,6 +88,9 @@ Voice Cloning:
 https://medium.com/mlearning-ai/voice-cloning-for-beginners-in-8-minutes-db046e009a70
 https://www.resemble.ai/
 
+Voice Chatbot:
+https://levelup.gitconnected.com/i-created-a-voice-chatbot-powered-by-chatgpt-api-here-is-how-6302d555b949
+
 Face Recognition
 https://pub.towardsai.net/real-time-face-recognition-on-cpu-with-python-and-facenet-3e7b3a0c0279!
 
