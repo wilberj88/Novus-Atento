@@ -40,6 +40,9 @@ https://towardsdatascience.com/intermediate-deep-learning-with-transfer-learning
 Automated Youtube Channel:
 https://amir-tech.medium.com/how-to-run-a-fully-automated-youtube-channel-using-python-19d4878a1cff
 
+Automated Football Commentator:
+https://betterprogramming.pub/building-an-ai-powered-football-commentator-6dbff5af9a88
+
 3d
 https://threejs.org/examples/#webgl_loader_pcd
 https://threejs.org/examples/#webgl_postprocessing_advanced
