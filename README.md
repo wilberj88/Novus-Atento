@@ -137,7 +137,8 @@ GPT-Blender: https://github.com/gd3kr/BlenderGPT
 ChatGPT: Automated Prompt Scoring | by Michael Malin | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/chatgpt-automated-prompt-scoring-c972f9ee2c4f
 
-
+TUTOR GPT:
+"Actúa como mi profesor de __ de nivel intermedio. Hazme preguntas, espera que responda y luego hazme otra pregunta. Cuando cometa un error por favor corrígeme y dame retroalimentacion"
 
 Código con interacción de voz
 				https://betterprogramming.pub/building-an-alexa-or-siri-equivalent-bot-in-python-ea07ed001445
