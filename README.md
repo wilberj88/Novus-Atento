@@ -114,7 +114,7 @@ ChatGPT(coding assistant):
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 
 PERSONAL ASSISTANT GPT:
-"Actúa como mi asistente personal, genera mi calendario del día empezando a las 7am y terminando 10pm, debe incluir una hora de ejercicio, dos sesiones de trabajo de 4 horas cada una, también contempla tiempo para las 3 comidas en el día, estudiar, distraerme y ocio"
+"Actúa como mi asistente personal, genera mi calendario del día empezando a las 7am y terminando 10pm, debe incluir una hora de ejercicio, dos sesiones de trabajo de 4 horas cada una, también contempla tiempo para las 3 comidas en el día, estudiar, distraerme y ocio. Conviértelo en formato .ICS. -calendario google-"
 
 
 ChatBot for e-commerce:
