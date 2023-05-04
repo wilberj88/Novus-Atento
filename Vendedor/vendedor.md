@@ -3,7 +3,7 @@ Curso Platzi - Porter profe Juan José
 AUTOMATIZACIÓN MARKETIN DIGITAL:
 ¿Vendes aspirinas o vitaminas? Foco aspirinas. Simplifica y reinarás.
 PASOS paraa automatizar el marketing digital:
-1) Elige un framework
+1) Elige un framework para el propósito comercial definido
 2) Elige un CRM
 3) Segmenta tu audiencia
 4) Elige los canales de suscripción
@@ -13,8 +13,11 @@ PASOS paraa automatizar el marketing digital:
 HERRAMIENTAS
 1) Chatbot messenger
 2) Embudos y flujos personalizados en Facebook
-3) Automatización de emails
-4) Seguimiento de los clientes
+3) Automatización de emails: MailerLite: formularios para listas de clientes. Da el código en HTML para ponerlo en nuestras webs. 
+4) Seguimiento de los clientes: Lead Scoring + Lead Nurturing: audiencias frias, tibias y calientes. app2.fromdoppler.com o mailchimp. 
+5) PopUps: app.hellobar.com
+6) Google Tag Manager: se carga el código que genera en el código de la web. Integrable con Google Ads.
+7) Scrappear leads: con Hunter buscar correos en función de los dominios. Con Snovio para buscar correos asociados a temáticas.
 
 10 GRANDES EJEMPLOS DE AUTOMATIZACIÓN DE MARKETING:
 1) correos por etapas: bienvenida, educación de uso, carrito abandonado, recompra, final de free-trial, reactivación...
@@ -47,4 +50,6 @@ Activation: que usen tu producto.
 Revenue: que te paguen una vez.
 Retention: que te sigan pagando.
 Referral: que te recomienden.
+
+
 
