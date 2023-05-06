@@ -4,14 +4,20 @@ AUTOMATIZACIÓN MARKETIN DIGITAL:
 ¿Vendes aspirinas o vitaminas? Foco aspirinas. Simplifica y reinarás.
 PASOS paraa automatizar el marketing digital:
 1) Elige un framework para el propósito comercial definido
-2) Elige un CRM
+2) Elige un CRM y automatizador (ej: zapier)
 3) Segmenta tu audiencia
 4) Elige los canales de suscripción
 5) Selecciona las herramientas
 6) Plantea y visualiza los flujos de procesos
 
+LÓGICA para crear flujos de email, SMS, push notifications y cualquier tipo de automatización de marketing es la misma.
+1) Necesitas un activador (algo que inicia la automatización).
+2) Un flujo como consecuencia de ese activador.
+3) En el caso de enviar un mensaje, elegir un canal como push, SMS o email.
+4) Y tener presente la personalización y segmentación.
+
 HERRAMIENTAS
-1) Chatbot messenger
+1) Zapier o Integromat + Chatbot messenger
 2) Embudos y flujos personalizados en Facebook
 3) Automatización de emails: MailerLite: formularios para listas de clientes. Da el código en HTML para ponerlo en nuestras webs. 
 4) Seguimiento de los clientes: Lead Scoring + Lead Nurturing: audiencias frias, tibias y calientes. app2.fromdoppler.com o mailchimp. 
@@ -21,7 +27,7 @@ HERRAMIENTAS
 
 10 GRANDES EJEMPLOS DE AUTOMATIZACIÓN DE MARKETING:
 1) correos por etapas: bienvenida, educación de uso, carrito abandonado, recompra, final de free-trial, reactivación...
-2) Push notifications
+2) Push notifications (Recomendados: Firebase y subscribers.com - Integrado con Shopify para manejo personalizado de e-commmerce)
 3) Personalización del data enrichment (ejemplo Clearbit: "Este email corresponde a ... que pertenece a esta empresa... y estas son sus redes sociales...")
 4) Emails basados en comportamiento
 5) Campaña de ofertas
@@ -51,5 +57,15 @@ Revenue: que te paguen una vez.
 Retention: que te sigan pagando.
 Referral: que te recomienden.
 
+VIDEOS PERSONALIZADOS:
+Herramienta recomendada: Bonjoro.com, que se conecta con el CRM.
 
+CHATBOTS PERSONALIZADOS:
+Herramienta recomendada: manychat.com/integrations
 
+REPORTES MARKETING VENTAS AUTOMATIZADOS:
+Herramienta recomendada: Google Data Studio
+
+NEXTs: 
+Cursos de la Ruta de Aprendizaje de Firebase
+Curso de Automatización de Procesos con Zapier
