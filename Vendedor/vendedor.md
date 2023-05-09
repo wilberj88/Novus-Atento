@@ -1,3 +1,24 @@
+Curso Platzi - Crear Embudos de Venta - Profe Milton Suárez Salazar
+
+Sensibilización -> Interés -> Evaluación -> Conversión
+TOFU: Top of the funnel
+MOFU: Middle of the funnel
+BOFU: bottom of the funnel
+
+Canales: Email + SMS + Chat + RS. 
+Evaluación: CRM + Analytics (Lead Scoring) + Landing Page (monitoring stages)
+Triggers: Disparadores. (Ej: finalizar un formulario para enviarle correo de confirmación)
+
+Perspectiva de negocio:
+B2B perfiles: Decisores (listos para comprar) + Reflexivos (demo) + Patinadores (dejarlos)
+
+
+
+
+
+
+
+
 Curso Platzi - Porter profe Juan José
 
 AUTOMATIZACIÓN MARKETIN DIGITAL:
