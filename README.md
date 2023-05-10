@@ -28,6 +28,9 @@ https://discuss.streamlit.io/t/open-source-song-transcript-and-video-caption-gen
 Automatic Speech Recognition:
 https://towardsdatascience.com/overcoming-automatic-speech-recognition-challenges-the-next-frontier-e26c31d643cc
 
+Wave.video — Easily Edit, Record, Multi-Stream & Host Videos | Wave.video
+https://wave.video/
+
 Youtube Transcript:
 https://consultanubhav-1596.medium.com/generating-transcripts-and-subtitles-out-of-any-youtube-video-via-python-931d71e60259
 
