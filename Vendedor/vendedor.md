@@ -16,10 +16,14 @@ Triggers: Disparadores. (Ej: finalizar un formulario para enviarle correo de con
 Perspectiva de negocio:
 B2B perfiles: Decisores (listos para comprar) + Reflexivos (demo) + Patinadores (dejarlos)
 
-
-
-
-
+Etapas:
+1) Atraer
+2) Interesar => call to action (Ebook + Informes + Casos de Uso + Webinar + Talleres y Eventos) + Wait List para beneficio 
+¿Cómo convertir, pasar del interés al decidir?: demostrar tus casos de éxito + contenidos de persuación (descuentos + Extras + FAQs + Métodos de Pago + Beneficios y escazes) comparativa + reseñas + flujos de mails personalizados + urgencias temporales + optimización de medios de pagos
+3) Convertir (Meta del 20% de los interesados) + Nuevos Leads (meta mensual-semanal). Calificar anteriores y nuevos leads.
+¡Definir sonido o ritual cuando se materialice una venta!
+Si finalmente no compra o sí, puedes evaluar la calificación previa del lead en conformidad.
+4) Meta monitorizada: ventas, % de conversión y flujos
 
 
 
