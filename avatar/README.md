@@ -18,3 +18,10 @@ Para evitar la distorción
 Paso 3: 
 Usar el código en colab
 https://colab.research.google.com/drive/1-HIbslQd7Ei_mAt25ipqSUMvbe3POm98?usp=sharing
+
+
+--------------------
+
+International References:
+1) MegaTrends Book, Page 135:
+
