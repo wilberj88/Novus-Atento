@@ -73,6 +73,9 @@ https://medium.com/@Acods/chat-gpt-vs-chatsonic-61b65ed79549
 Voice, Videos & PPT edition:
 https://artificialcorner.com/6-ai-tools-that-will-make-your-life-easier-a1b71d15cbff
 
+Clone Voices with Python:
+https://medium.com/@jdgb.projects/how-to-clone-voices-with-python-9834709cbb17
+
 News Summeriser:
 https://medium.com/@natashanewbold/python-automation-project-with-source-code-news-summeriser-37132d89ae16
 
