@@ -1,10 +1,13 @@
-Tutorial 1: https://platzi.com/clases/6935-ai/60704-hugging-face-101-spaces/
+Tutorial 1: Making Cartoons with Image
+https://medium.com/thelatestai/transforming-reality-turn-your-photos-into-cartoons-with-opencv-c752b606e3b8
+
+Tutorial 2: https://platzi.com/clases/6935-ai/60704-hugging-face-101-spaces/
 Entrar a Hugging Face: Space: VToonify
 Ejecutar el modelo con las imágenes que querramos.
 Cargar código de python del modelo en nuestros propios códigos
 
 
-Tutorial 2:
+Tutorial 3:
 https://www.google.com/search?q=dot+csv+tutorial+entrena+ia+con+tu+cara&oq=dot+csv+tutorial+entrena+ia+con+tu&aqs=chrome.2.69i57j33i160l3.20679j1j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d64ea58,vid:rgKBjRLvjLs
 
 
