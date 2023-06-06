@@ -1,0 +1,1 @@
+https://media.istockphoto.com/id/1274390150/es/foto/businessman-tocando-bot-de-chat-digital-en-la-tableta-para-proporcionar-acceso-a-la.jpg?s=612x612&w=0&k=20&c=nN8ynG4hYriEZeTlit8BRuGddFD-cbon2LR6vnQFSL4=
