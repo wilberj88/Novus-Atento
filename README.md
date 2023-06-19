@@ -61,6 +61,8 @@ https://threejs.org/examples/#webgl_modifier_simplifier
 https://threejs.org/examples/#webgl_materials_normalmap
 
 AI Avatar:
+lexica.art para prompt de generar imagen de persona en primer plano con la cara enfocada
+stable diffusion: ejecutar celdas del cuaderno del youtuber Elven (link en video)
 https://medium.com/mlearning-ai/how-to-generate-your-ai-avatar-for-free-without-coding-b2ebfa2264a
 https://www.youtube.com/watch?v=NlqYAUga60w&feature=youtu.be
 www.synthesia.io
