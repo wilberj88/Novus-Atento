@@ -10,6 +10,8 @@ Cargar código de python del modelo en nuestros propios códigos
 Tutorial 3:
 https://www.google.com/search?q=dot+csv+tutorial+entrena+ia+con+tu+cara&oq=dot+csv+tutorial+entrena+ia+con+tu&aqs=chrome.2.69i57j33i160l3.20679j1j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d64ea58,vid:rgKBjRLvjLs
 
+Tutorial 4:
+kreado.ai
 
 Paso 1: 
 Consigue 20 imágenes: 3 cuerpo completo + 5 torzo + 12 Cara
