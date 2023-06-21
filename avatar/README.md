@@ -1,3 +1,6 @@
+Editor de video online gratuito:
+clipchamp.com
+
 Tutorial 1: Making Cartoons with Image
 https://medium.com/thelatestai/transforming-reality-turn-your-photos-into-cartoons-with-opencv-c752b606e3b8
 
