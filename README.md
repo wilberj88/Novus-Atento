@@ -13,6 +13,9 @@ Librerìa Lottie
 Curso avatar catoon blandee:
 https://www.domestika.org/es/courses/4272-animacion-de-personajes-3d-estilo-cartoon-en-blender?fbclid=IwAR1yhg0Fpy2lYWghmUqw687Xpc0VPFRS8ZAJjejP9VgoNc7OB3mrSKGrsBg_aem_AbZVKEZO5RAtpjgGnM0WXh4bBsz5Ws02QOJuJ-_H8OKymnJ1vx1nxC_ow4hMR5qGB-EvZ4tW7alGJAK1a0UUoNrAzbIfmDKGFBbbIoI00bz-atd5E50CFedWYLOJhH77dtc&nb_placement=Facebook_Mobile_Feed&nbt=nb%3Afb%3Afb%3A23850099897150499%3A23850099897170499%3A23850099897280499&utm_campaign=0_WW_MIX_COURSES_NPevent_LOWESTCOST_AB_23850099897150499&utm_content=campaignid_23850099897150499_adid_23850099897280499&utm_medium=cpc&utm_source=facebook.com
 
+ChatGPT Clone:
+https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
+
 PRIVATE CHATGPT:
 https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
 
