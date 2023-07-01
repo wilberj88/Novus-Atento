@@ -29,6 +29,7 @@ https://colab.research.google.com/drive/1-HIbslQd7Ei_mAt25ipqSUMvbe3POm98?usp=sh
 
 
 --------------------
+-Voice Control: https://pub.towardsai.net/speakgpt-instead-of-chatgpt-lets-do-the-data-project-by-just-speaking-93fc83f4a8e4
 
 International References:
 1) MegaTrends Book, Page 135:
