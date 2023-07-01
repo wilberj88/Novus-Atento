@@ -16,6 +16,9 @@ https://www.domestika.org/es/courses/4272-animacion-de-personajes-3d-estilo-cart
 PRIVATE CHATGPT:
 https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
 
+Potenciando ChatGPT con Calling Feature:
+https://levelup.gitconnected.com/openai-function-calling-feature-f846579c9c69
+
 Convert images into pixel art
 https://blog.streamlit.io/convert-images-into-pixel-art/
 
