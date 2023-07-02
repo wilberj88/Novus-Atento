@@ -2,6 +2,8 @@ Referentes de mercado:
 https://www.salespilot.app/
 https://www.elconfidencial.com/hacia-un-futuro-mejor/2023-05-29/zapateria-apadrina-dulceida-bra_3637636/
 
+Customer segmentation & Sales Prediction:
+https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 
 Sales Prediction:
 https://medium.com/@panData/how-to-create-a-machine-learning-model-in-python-for-sales-prediction-23e19098069?source=email-ac06357994d4-1682150619448-digest.reader-78073def27b8-23e19098069----2-2------------------83cffa5e_dea5_45c5_8fcd_c8ae0f5246aa-31
