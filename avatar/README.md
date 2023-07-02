@@ -1,3 +1,7 @@
+Real-time voice cloning:
+https://medium.com/analytics-vidhya/the-voice-real-time-voice-cloning-b7815afd6869
+
+
 Editor de video online gratuito:
 clipchamp.com
 
