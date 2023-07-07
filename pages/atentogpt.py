@@ -6,6 +6,10 @@ import time
 
 st.title('Novus Atento 🤖 tu mayordomo digital')
 
+
+# Set OpenAI API key from Streamlit secrets
+openai.api_key = st.secrets["OPENAI_API_KEY"]
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
