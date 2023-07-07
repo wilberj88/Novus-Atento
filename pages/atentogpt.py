@@ -6,7 +6,9 @@ import time
 
 st.title('Novus Atento 🤖 tu mayordomo digital')
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+model_engine = "text-davinci-003"
+openai.api_key = "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"
+
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
