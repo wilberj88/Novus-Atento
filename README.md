@@ -198,3 +198,7 @@ https://drive.google.com/file/d/1Z-syNViRygwZ_SR8pB_ylXHefjUEwYVr/view
 https://drive.google.com/file/d/1j9_JU-yTlj3aN6gtqk5KlAMjxJTwfR4A/view
 Automatic 1111 (Interfaz Gráfica para manejar Stable Diffusion) es una de las interfaces gráficas para usar Stable Diffusion: git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 Galería: https://playgroundai.com/
+
+
+Customer Segmentation:
+https://towardsdatascience.com/mastering-customer-segmentation-using-credit-card-transaction-data-dc39a8465766
