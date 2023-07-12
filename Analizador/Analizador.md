@@ -9,3 +9,6 @@ https://medium.com/mlearning-ai/build-a-chat-with-csv-app-using-langchain-and-st
 
 LangChain for autonomous agents, personal assistants, question-answering, chatbots, code understanding:
 https://levelup.gitconnected.com/getting-started-with-langchain-for-beginners-f3841119e357
+
+Youtube Videos Summarizer
+https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3-easy-steps-2d404cca5077
