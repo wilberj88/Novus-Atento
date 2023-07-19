@@ -7,6 +7,7 @@ Price-tracking alert system: Web Scrapping Nasdaq: Sentiment analysis, stock mar
 Chat with your document:
 https://medium.com/mlearning-ai/build-a-chat-with-csv-app-using-langchain-and-streamlit-94a8b3363aa9
 https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0
+https://blog.streamlit.io/langchain-tutorial-4-build-an-ask-the-doc-app/
 
 LangChain for autonomous agents, personal assistants, question-answering, chatbots, code understanding:
 https://levelup.gitconnected.com/getting-started-with-langchain-for-beginners-f3841119e357
