@@ -8,6 +8,8 @@ https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing
 Sales Prediction:
 https://medium.com/@panData/how-to-create-a-machine-learning-model-in-python-for-sales-prediction-23e19098069?source=email-ac06357994d4-1682150619448-digest.reader-78073def27b8-23e19098069----2-2------------------83cffa5e_dea5_45c5_8fcd_c8ae0f5246aa-31
 
+Powered Chatbot:
+https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
 
 Curso Platzi - Crear Embudos de Venta - Profe Milton Suárez Salazar
 
