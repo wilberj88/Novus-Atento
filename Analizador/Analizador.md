@@ -15,3 +15,6 @@ https://github.com/youssefHosni/Chat-with-Pdf/blob/main/README.md
 
 Youtube Videos Summarizer
 https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3-easy-steps-2d404cca5077
+
+GPT Code Interpreter:
+https://towardsdatascience.com/chatgpt-code-interpreter-how-it-saved-me-hours-of-work-3c65a8dfa935
