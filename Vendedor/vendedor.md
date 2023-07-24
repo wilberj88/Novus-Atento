@@ -13,6 +13,8 @@ https://artificialcorner.com/chatgpt-code-interpreter-is-not-just-for-coders-her
 
 Powered Chatbot:
 https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
+JokeGPT Example:
+https://medium.com/codefile/jokegpt-and-beyond-create-a-chatgpt-app-with-streamlit-and-databutton-898defdb4d00
 
 Curso Platzi - Crear Embudos de Venta - Profe Milton Suárez Salazar
 
