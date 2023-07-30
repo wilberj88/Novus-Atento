@@ -18,3 +18,6 @@ https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3
 
 GPT Code Interpreter:
 https://towardsdatascience.com/chatgpt-code-interpreter-how-it-saved-me-hours-of-work-3c65a8dfa935
+
+Predictions:
+https://levelup.gitconnected.com/linear-regression-guide-to-predictions-and-interpretation-of-metrics-and-data-dc67ce1a11db
