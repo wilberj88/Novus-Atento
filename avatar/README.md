@@ -1,6 +1,8 @@
 Real-time voice cloning:
 https://medium.com/analytics-vidhya/the-voice-real-time-voice-cloning-b7815afd6869
 
+Talking Avatar:
+https://medium.com/grabngoinfo/how-to-create-a-talking-ai-avatar-for-free-6f1f628c3d26
 
 Editor de video online gratuito:
 clipchamp.com
