@@ -4,6 +4,9 @@ https://medium.com/analytics-vidhya/the-voice-real-time-voice-cloning-b7815afd68
 Talking Avatar:
 https://medium.com/grabngoinfo/how-to-create-a-talking-ai-avatar-for-free-6f1f628c3d26
 
+Ejemplo Videojuego de Texto para Guion Sensei:
+https://platzi.com/clases/3077-rust-basico/48996-creacion-y-descripcion-del-entorno/
+
 Editor de video online gratuito:
 clipchamp.com
 
