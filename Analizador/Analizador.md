@@ -1,6 +1,8 @@
 Question Answering App With Streamlit:
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
 
+LifeTimeValue:
+https://medium.com/@tetianakushniruk/customer-lifetime-analysis-data-analysis-project-with-python-c9417e724094
 
 Price-tracking alert system: Web Scrapping Nasdaq: Sentiment analysis, stock market price prediction, market & companies analysis: https://trading-data-analysis.pro/web-scraping-nasdaq-718dab33853e 
 
