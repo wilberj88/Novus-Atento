@@ -12,6 +12,9 @@ https://medium.com/@panData/how-to-create-a-machine-learning-model-in-python-for
 Turn Images Into Videos:
 https://artificialcorner.com/chatgpt-code-interpreter-is-not-just-for-coders-here-are-6-ways-it-can-benefit-everyone-b3cc94a36fce
 
+Cloning Voice:
+https://levelup.gitconnected.com/cloning-voices-with-ai-in-python-c28c666e4c76
+
 Powered Chatbot:
 https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
 JokeGPT Example:
