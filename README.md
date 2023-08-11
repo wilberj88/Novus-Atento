@@ -11,6 +11,9 @@ STACK
 3) chatfuel.com
 4) VideoAsk
 
+Mentor Sensei:
+https://blog.gopenai.com/chat-with-celebrity-mentors-using-langchain-chatgpt-whisper-and-pinecone-85e89ea9e59
+
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
 Librerìa Lottie
