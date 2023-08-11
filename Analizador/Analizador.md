@@ -11,9 +11,12 @@ https://medium.com/mlearning-ai/build-a-chat-with-csv-app-using-langchain-and-st
 https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0
 https://blog.streamlit.io/langchain-tutorial-4-build-an-ask-the-doc-app/
 
+
 LangChain for autonomous agents, personal assistants, question-answering, chatbots, code understanding:
 https://levelup.gitconnected.com/getting-started-with-langchain-for-beginners-f3841119e357
 https://github.com/youssefHosni/Chat-with-Pdf/blob/main/README.md
+https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172
+
 
 Youtube Videos Summarizer
 https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3-easy-steps-2d404cca5077
