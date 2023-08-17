@@ -1,6 +1,7 @@
 Question Answering App With Streamlit:
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
+https://github.com/tarunlnmiit/streamlit-chatgpt-chatbot/blob/main/chatgpt_chatbot_medium.py
 
 LifeTimeValue:
 https://medium.com/@tetianakushniruk/customer-lifetime-analysis-data-analysis-project-with-python-c9417e724094
