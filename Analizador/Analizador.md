@@ -3,6 +3,9 @@ https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-s
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
 https://github.com/tarunlnmiit/streamlit-chatgpt-chatbot/blob/main/chatgpt_chatbot_medium.py
 
+Chart Generator:
+https://levelup.gitconnected.com/build-an-ai-chart-generator-that-adapting-to-any-dataset-type-in-only-50-lines-7c4a0668c5f1
+
 LifeTimeValue:
 https://medium.com/@tetianakushniruk/customer-lifetime-analysis-data-analysis-project-with-python-c9417e724094
 
