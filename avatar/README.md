@@ -1,6 +1,9 @@
 Real-time voice cloning:
 https://medium.com/analytics-vidhya/the-voice-real-time-voice-cloning-b7815afd6869
 
+Tipos de mayordomos:
+https://medium.com/the-generator/how-to-automate-your-life-with-ai-e07074732543
+
 Talking Avatar:
 https://medium.com/grabngoinfo/how-to-create-a-talking-ai-avatar-for-free-6f1f628c3d26
 
