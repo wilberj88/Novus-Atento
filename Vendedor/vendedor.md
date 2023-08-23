@@ -6,6 +6,9 @@ Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
 
+SEO:
+Podcast Startupeable: Alejandro Gonzalez de Platzi
+
 Free Website Builder for sales:
 https://medium.com/@appseed.us/free-website-builder-simpllo-f2cf7ce23b3b
 
