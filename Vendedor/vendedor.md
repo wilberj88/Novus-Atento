@@ -8,6 +8,27 @@ https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-cust
 
 SEO:
 Podcast Startupeable: Alejandro Gonzalez de Platzi
+Cursos Platzi de Alejandro Gonzalez.
+Fundamentos SEO: 
+Priorizar estructura y precision en los dominios y modulos para que Google lo rastree mejor.
+Análisis Inicial de Reconocimiento SEO: términos de búsqueda y tráfico orgánico (neilpatel.com/ubersuggest/)
+
+IA para SEO:
+Construir ProtoPersonas con ChatGPT:
+<<_ Eres un experto en investigación de mercados, ecommerce y retail.
+Dame ideas de ICP (Ideal Customer Profile) para un negocio de [negocio] en [lugar]
+_ Cuales son los datos y características que debería tener la definición de un protopersona?
+_ A las ideas de ICP que me proporcionaste, agrega los datos y características que debería tener la definición de un protopersona
+_ Para las ideas de ICP que me proporcionaste, define:
+Un nombre llamativo
+Descripción de perfil
+Datos demográficos
+Intereses y pasiones
+Desafios y necesidades
+Comportamiento de compra
+Motivaciones y valores.
+Dame la información de cada perfil en una tabla>>
+
 
 Free Website Builder for sales:
 https://medium.com/@appseed.us/free-website-builder-simpllo-f2cf7ce23b3b
