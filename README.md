@@ -26,6 +26,7 @@ https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
 
 PRIVATE CHATGPT:
 https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
+https://levelup.gitconnected.com/build-a-beautiful-looking-gpt-chatbot-with-plotly-dash-753bb3767d93
 
 Potenciando ChatGPT con Calling Feature:
 https://levelup.gitconnected.com/openai-function-calling-feature-f846579c9c69
