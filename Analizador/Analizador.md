@@ -1,3 +1,6 @@
+Google Drive Knowledge with ChatGPT:
+https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-chatgpt-application-805962812547
+
 Question Answering App With Streamlit:
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
