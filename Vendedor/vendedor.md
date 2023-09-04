@@ -6,6 +6,9 @@ Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
 
+Sales Forcasting:
+https://levelup.gitconnected.com/creating-a-sales-forecasting-project-from-scratch-step-by-step-guide-180c908a6cc
+
 SEO:
 Podcast Startupeable: Alejandro Gonzalez de Platzi
 Cursos Platzi de Alejandro Gonzalez.
