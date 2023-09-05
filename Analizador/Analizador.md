@@ -32,6 +32,7 @@ https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversa
 
 Youtube Videos Summarizer
 https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3-easy-steps-2d404cca5077
+https://heartbeat.comet.ml/custom-video-classification-using-yolov8-ec07a9de3b1a
 
 GPT Code Interpreter:
 https://towardsdatascience.com/chatgpt-code-interpreter-how-it-saved-me-hours-of-work-3c65a8dfa935
