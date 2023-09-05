@@ -1,6 +1,9 @@
 Google Drive Knowledge with ChatGPT:
 https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-chatgpt-application-805962812547
 
+PDF Analyzer:
+https://levelup.gitconnected.com/this-insane-script-summarizes-any-pdf-in-seconds-a3c71ff906df
+
 Question Answering App With Streamlit:
 https://medium.com/@anoopjohny2000/building-a-conversational-chat-interface-with-streamlit-and-langchain-for-csvs-8c150b1f982d
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
