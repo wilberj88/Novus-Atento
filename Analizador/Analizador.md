@@ -7,6 +7,9 @@ https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-s
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
 https://github.com/tarunlnmiit/streamlit-chatgpt-chatbot/blob/main/chatgpt_chatbot_medium.py
 
+Spatial Questions (TRAVELIN):
+https://artificialcorner.com/leveraging-chatgpt-and-mapbox-creating-a-location-based-question-answering-system-91e198b1f202
+
 Scrapper:
 https://artificialcorner.com/how-to-scrape-a-web-page-with-chatgpt-no-programming-required-d63d6a561aee
 
