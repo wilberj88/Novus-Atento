@@ -5,10 +5,12 @@ PDF Analyzer:
 https://levelup.gitconnected.com/this-insane-script-summarizes-any-pdf-in-seconds-a3c71ff906df
 
 Question Answering App With Streamlit:
+https://medium.com/codefile/analyse-your-data-with-the-openai-api-and-streamlit-and-nothing-else-2d38440a1650
 https://medium.com/@anoopjohny2000/building-a-conversational-chat-interface-with-streamlit-and-langchain-for-csvs-8c150b1f982d
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
 https://github.com/tarunlnmiit/streamlit-chatgpt-chatbot/blob/main/chatgpt_chatbot_medium.py
+
 
 Spatial Questions (TRAVELIN):
 https://artificialcorner.com/leveraging-chatgpt-and-mapbox-creating-a-location-based-question-answering-system-91e198b1f202
