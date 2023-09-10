@@ -1,5 +1,5 @@
 # Novus-Atento
-IA para mayordomos digitales: atención, acompañamiento, venta y postventa
+IA para mayordomos digitales: atención, acompañamiento, vigilancia, venta y postventa
 
 referentes:
 hyperwrite
@@ -13,6 +13,9 @@ STACK
 
 Mentor Sensei:
 https://blog.gopenai.com/chat-with-celebrity-mentors-using-langchain-chatgpt-whisper-and-pinecone-85e89ea9e59
+
+Vigilancia en tienda:
+https://veesion.io/es/sectores/videovigilancia-inteligente-supermercados/
 
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
