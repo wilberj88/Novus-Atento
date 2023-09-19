@@ -17,6 +17,9 @@ https://blog.gopenai.com/chat-with-celebrity-mentors-using-langchain-chatgpt-whi
 Vigilancia en tienda:
 https://veesion.io/es/sectores/videovigilancia-inteligente-supermercados/
 
+Potenciales Alianzas:
+1) Centro de Ciencias del Comportamiento UNAM
+
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
 Librerìa Lottie
