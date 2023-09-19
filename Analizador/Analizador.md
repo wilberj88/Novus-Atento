@@ -11,6 +11,12 @@ https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-s
 https://medium.com/mlearning-ai/how-to-create-a-smart-chatbot-with-streamlit-python-and-chatgpt-56ab76508279
 https://github.com/tarunlnmiit/streamlit-chatgpt-chatbot/blob/main/chatgpt_chatbot_medium.py
 
+Analizador de Personalidad:
+1) "La personalidad es aquello que permite predecir lo que una persona hará en determinada situacion"
+Construccion biológica y social: 
+variables motivacionales (Ikigay)
+Escalas de necesidades: logro, afiliacion, agresion, autonomia, dominancia, resistencia, exhibicionismo, evasion, impulsividad, interes por los demas, orden, humorismo, reconocimiento social, intelectualidad y veracidad.
+
 
 Spatial Questions (TRAVELIN):
 https://artificialcorner.com/leveraging-chatgpt-and-mapbox-creating-a-location-based-question-answering-system-91e198b1f202
