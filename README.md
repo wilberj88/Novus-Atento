@@ -1,6 +1,11 @@
 # Novus-Atento
 IA para mayordomos digitales: atención, acompañamiento, vigilancia, venta y postventa
 
+modulos:
+finanzas personales
+servicios personales 
+
+
 referentes:
 hyperwrite
 https://watermelon.co/
