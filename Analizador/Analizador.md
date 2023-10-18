@@ -1,6 +1,9 @@
 Google Drive Knowledge with ChatGPT:
 https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-chatgpt-application-805962812547
 
+URL Analyzer:
+https://web-summarizer.streamlit.app/
+
 PDF Analyzer:
 https://levelup.gitconnected.com/this-insane-script-summarizes-any-pdf-in-seconds-a3c71ff906df
 
