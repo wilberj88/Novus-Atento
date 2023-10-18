@@ -9,6 +9,9 @@ https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-cust
 Sales Forcasting:
 https://levelup.gitconnected.com/creating-a-sales-forecasting-project-from-scratch-step-by-step-guide-180c908a6cc
 
+Generador de Twits e Imágenes:
+https://tweets.streamlit.app/
+
 SEO:
 Podcast Startupeable: Alejandro Gonzalez de Platzi
 Cursos Platzi de Alejandro Gonzalez.
