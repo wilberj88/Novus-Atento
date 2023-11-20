@@ -15,6 +15,8 @@ STACK
 2) Without Harpa.Ai: https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/
 3) chatfuel.com
 4) VideoAsk
+5) Hey Gen
+6) D-ID
 
 Mentor Sensei:
 https://blog.gopenai.com/chat-with-celebrity-mentors-using-langchain-chatgpt-whisper-and-pinecone-85e89ea9e59
