@@ -9,8 +9,9 @@ https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-cust
 Sales Forcasting:
 https://levelup.gitconnected.com/creating-a-sales-forecasting-project-from-scratch-step-by-step-guide-180c908a6cc
 
-Generador de Twits e Imágenes:
+Generador de Twits e Imágenes y videos
 https://tweets.streamlit.app/
+https://blog.devgenius.io/creating-a-30-second-video-with-sound-from-a-single-image-using-python-and-opencv-55ae2b1fc115
 
 SEO:
 Podcast Startupeable: Alejandro Gonzalez de Platzi
