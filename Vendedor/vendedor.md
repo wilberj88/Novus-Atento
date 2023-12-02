@@ -49,6 +49,9 @@ https://artificialcorner.com/chatgpt-code-interpreter-is-not-just-for-coders-her
 Cloning Voice:
 https://levelup.gitconnected.com/cloning-voices-with-ai-in-python-c28c666e4c76
 
+Translate in real time:
+https://artificialcorner.com/i-used-ai-to-translate-my-videos-into-4-languages-the-results-were-outstanding-2aab0fe5f7fb
+
 Powered Chatbot:
 https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
 JokeGPT Example:
