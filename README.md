@@ -16,7 +16,7 @@ STACK
 2) Without Harpa.Ai: https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/ https://medium.com/predict/crafting-an-ai-powered-chatbot-for-finance-using-rag-langchain-and-streamlit-4384a8076960
 3) chatfuel.com
 4) VideoAsk
-5) Hey Gen
+5) Auto Gen: https://levelup.gitconnected.com/integrate-autogen-into-your-chatbot-code-interpreter-clone-2ba71e264ad3
 6) D-ID
 
 Mentor Sensei:
