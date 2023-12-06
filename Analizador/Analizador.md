@@ -4,6 +4,9 @@ https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-ch
 URL Analyzer:
 https://web-summarizer.streamlit.app/
 
+Multi Document Reader:
+https://betterprogramming.pub/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339
+
 PDF Analyzer:
 https://levelup.gitconnected.com/this-insane-script-summarizes-any-pdf-in-seconds-a3c71ff906df
 
