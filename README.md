@@ -12,8 +12,8 @@ https://watermelon.co/
 www.botpress.com
 
 STACK
-1) Python-Streamlit-ChatGPT-Harpa.Ai: https://www.youtube.com/watch?v=cHjlperESbg https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542
-2) Without Harpa.Ai: https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/
+1) Python-Streamlit-ChatGPT-Harpa.Ai: https://www.youtube.com/watch?v=cHjlperESbg https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542 
+2) Without Harpa.Ai: https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/ https://medium.com/predict/crafting-an-ai-powered-chatbot-for-finance-using-rag-langchain-and-streamlit-4384a8076960
 3) chatfuel.com
 4) VideoAsk
 5) Hey Gen
