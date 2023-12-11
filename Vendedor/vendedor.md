@@ -6,6 +6,9 @@ Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
 
+Marketing Campaing Analysis:
+https://medium.com/@cakrasinaga/marketing-campaign-analysis-52747f138e93
+
 Sales Forcasting:
 https://levelup.gitconnected.com/creating-a-sales-forecasting-project-from-scratch-step-by-step-guide-180c908a6cc
 
