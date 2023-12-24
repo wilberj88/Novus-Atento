@@ -6,7 +6,7 @@ Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
 
-Venta automatizada personalizada por épocas y segmentos:
+Fábrica Creativa personalizada por épocas y segmentos:
 https://medium.com/@iampaulrose/i-found-3-passive-income-ideas-anyone-can-start-ac214a993f95
 
 Marketing Campaing Analysis:
