@@ -4,6 +4,9 @@ https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-ch
 URL Analyzer:
 https://web-summarizer.streamlit.app/
 
+Retail Analyzer:
+https://medium.com/codex/retail-analytics-top-16-concepts-every-data-professional-should-know-ee0aa84108e2
+
 Multi Document Reader:
 https://betterprogramming.pub/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339
 
