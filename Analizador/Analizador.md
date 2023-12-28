@@ -7,6 +7,9 @@ https://web-summarizer.streamlit.app/
 Retail Analyzer:
 https://medium.com/codex/retail-analytics-top-16-concepts-every-data-professional-should-know-ee0aa84108e2
 
+Price Elasticity:
+https://levelup.gitconnected.com/calculating-individual-price-elasticity-for-products-9787e3b82875
+
 Multi Document Reader:
 https://betterprogramming.pub/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339
 
