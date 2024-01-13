@@ -2,6 +2,9 @@ Referentes de mercado:
 https://www.salespilot.app/
 https://www.elconfidencial.com/hacia-un-futuro-mejor/2023-05-29/zapateria-apadrina-dulceida-bra_3637636/
 
+Talking Avatars:
+https://sausheong.com/creating-talking-head-videos-with-generative-ai-2df3947fd506
+
 Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
