@@ -4,6 +4,9 @@ https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-ch
 URL Analyzer:
 https://web-summarizer.streamlit.app/
 
+Whastapp Chats Analyzer:
+https://levelup.gitconnected.com/weekend-project-become-a-whatsapp-chat-analyst-with-python-streamlit-8fd53dcc3ff6
+
 Retail Analyzer:
 https://medium.com/codex/retail-analytics-top-16-concepts-every-data-professional-should-know-ee0aa84108e2
 
