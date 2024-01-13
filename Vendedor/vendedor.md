@@ -2,6 +2,9 @@ Referentes de mercado:
 https://www.salespilot.app/
 https://www.elconfidencial.com/hacia-un-futuro-mejor/2023-05-29/zapateria-apadrina-dulceida-bra_3637636/
 
+Product Recommendation:
+https://medium.com/datafabrica/mastering-e-commerce-product-recommendations-in-python-7c12a4bf0c2c
+
 Talking Avatars:
 https://sausheong.com/creating-talking-head-videos-with-generative-ai-2df3947fd506
 
