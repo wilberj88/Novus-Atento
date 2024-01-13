@@ -13,6 +13,9 @@ https://medium.com/codex/retail-analytics-top-16-concepts-every-data-professiona
 ChatGPT Infographics with DallE:
 https://bootcamp.uxdesign.cc/generating-infographics-using-chatgpt-and-dall-e-3-c747ee7db524
 
+Facial Recognition:
+https://nayakpplaban.medium.com/building-an-application-for-facial-recognition-using-python-opencv-transformers-and-qdrant-a144871f40d9
+
 Price Elasticity:
 https://levelup.gitconnected.com/calculating-individual-price-elasticity-for-products-9787e3b82875
 
