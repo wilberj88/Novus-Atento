@@ -1,3 +1,35 @@
+Analyzing Customer Insights Maps
+			What people are:
+				Thinking
+				Feeling
+				Saying (likely & unlikely)
+					Emotion
+						Anger
+						Disgust
+						Fear
+						Joy
+						Sadness
+					Language Style
+						Analytical
+						Confident
+						Tentative
+					Social Tendencies
+						Openness
+						Conscientiousness
+						Extraversion
+						Agreeableness
+						Emotional Range
+				Doing
+				Touch Points
+			Recommendation systems:
+				Next best action
+					All the journey
+						Awareness
+						Consideración
+						Acquisition
+						Engagement
+
+
 Google Drive Knowledge with ChatGPT:
 https://betterprogramming.pub/using-google-drive-as-a-knowledge-base-for-your-chatgpt-application-805962812547
 
