@@ -8,6 +8,9 @@ https://medium.com/datafabrica/mastering-e-commerce-product-recommendations-in-p
 Talking Avatars:
 https://sausheong.com/creating-talking-head-videos-with-generative-ai-2df3947fd506
 
+Text to Image:
+https://pub.towardsai.net/build-a-text-to-image-generator-web-app-flask-and-streamlit-2a98c8340405
+
 Customer segmentation & Sales Prediction:
 https://blog.startupstash.com/customer-segmentation-and-prediction-for-marketing-campaigns-3486f8dc2627
 https://medium.datadriveninvestor.com/mastering-personalized-marketing-with-customer-segmentation-and-collaborative-filtering-9aadd3991150
