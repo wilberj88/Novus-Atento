@@ -58,6 +58,7 @@ PDF Analyzer:
 https://levelup.gitconnected.com/this-insane-script-summarizes-any-pdf-in-seconds-a3c71ff906df
 
 Question Answering App With Streamlit:
+https://ai.plainenglish.io/chat-and-visualize-your-data-with-langchain-and-streamlit-2c26de417e05
 https://medium.com/codefile/analyse-your-data-with-the-openai-api-and-streamlit-and-nothing-else-2d38440a1650
 https://medium.com/@anoopjohny2000/building-a-conversational-chat-interface-with-streamlit-and-langchain-for-csvs-8c150b1f982d
 https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
