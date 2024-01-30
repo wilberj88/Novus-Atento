@@ -97,6 +97,8 @@ https://levelup.gitconnected.com/getting-started-with-langchain-for-beginners-f3
 https://github.com/youssefHosni/Chat-with-Pdf/blob/main/README.md
 https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172
 
+Knowledge Graph:
+https://medium.com/@mdsharique0107/structured-data-analysis-using-knowledge-graph-llm-b1f7db88edd3
 
 Youtube Videos Summarizer
 https://pub.towardsai.net/create-your-own-youtube-video-summarizer-app-in-just-3-easy-steps-2d404cca5077
