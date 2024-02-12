@@ -47,6 +47,7 @@ https://bootcamp.uxdesign.cc/generating-infographics-using-chatgpt-and-dall-e-3-
 
 Facial Recognition:
 https://nayakpplaban.medium.com/building-an-application-for-facial-recognition-using-python-opencv-transformers-and-qdrant-a144871f40d9
+https://medium.com/@crisvelasquez/real-time-emotion-recognition-in-python-with-opencv-and-fer-9ac56fec29c6
 
 Price Elasticity:
 https://levelup.gitconnected.com/calculating-individual-price-elasticity-for-products-9787e3b82875
