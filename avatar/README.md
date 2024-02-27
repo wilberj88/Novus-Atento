@@ -4,6 +4,9 @@ https://medium.com/analytics-vidhya/the-voice-real-time-voice-cloning-b7815afd68
 Tipos de mayordomos:
 https://medium.com/the-generator/how-to-automate-your-life-with-ai-e07074732543
 
+Persona Simulator:
+https://personas.streamlit.app/
+
 Talking Avatar:
 https://medium.com/grabngoinfo/how-to-create-a-talking-ai-avatar-for-free-6f1f628c3d26
 
