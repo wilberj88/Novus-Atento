@@ -1,3 +1,5 @@
+Churn Prediction: https://medium.com/@ramazanolmeez/end-to-end-machine-learning-project-churn-prediction-e9c4d0322ac9
+
 Analyzing Customer Insights Maps
 			What people are:
 				Thinking
