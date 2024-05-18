@@ -1,3 +1,6 @@
+Customers`s Life time value:
+https://blog.gopenai.com/customer-lifetime-value-clv-prediction-with-machine-learning-and-db-querying-with-llm-33d803544da0
+
 Churn Prediction: https://medium.com/@ramazanolmeez/end-to-end-machine-learning-project-churn-prediction-e9c4d0322ac9
 
 Analyzing Customer Insights Maps
