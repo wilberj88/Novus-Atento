@@ -1,6 +1,9 @@
 Videos 3D gratis:
 https://www.renderforest.com/es/#Videos
 
+Voice Assistant:
+https://medium.com/@isaiahlove085/create-an-ai-voice-assistant-a95a9a2e79a9
+
 Referentes de mercado:
 https://www.salespilot.app/
 https://www.elconfidencial.com/hacia-un-futuro-mejor/2023-05-29/zapateria-apadrina-dulceida-bra_3637636/
