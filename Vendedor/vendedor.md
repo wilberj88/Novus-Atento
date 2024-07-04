@@ -1,6 +1,9 @@
 Videos 3D gratis:
 https://www.renderforest.com/es/#Videos
 
+Landing Page Generators
+https://ai.gopubby.com/llm-agents-landing-page-generation-for-an-e-commerce-platform-using-crewai-langchain-and-qdrant-c8e7dec21cd5
+
 Voice Assistant:
 https://medium.com/@isaiahlove085/create-an-ai-voice-assistant-a95a9a2e79a9
 
