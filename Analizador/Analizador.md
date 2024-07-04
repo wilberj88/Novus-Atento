@@ -1,6 +1,9 @@
 Customers`s Life time value:
 https://blog.gopenai.com/customer-lifetime-value-clv-prediction-with-machine-learning-and-db-querying-with-llm-33d803544da0
 
+Chat with PDF
+https://blog.gopenai.com/building-a-multi-pdf-rag-chatbot-langchain-streamlit-with-code-d21d0a1cf9e5
+
 Sentiment Speech:
 https://medium.datadriveninvestor.com/conversational-sentiment-analysis-on-audio-data-3142a874e327
 
